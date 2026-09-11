@@ -1,0 +1,10 @@
+html {
+  overflow: hidden;
+}
+
+#app {
+  height: 100vh;
+  overflow-y: auto;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+}
